@@ -7,7 +7,7 @@ To run this file
 
 
 
-// Reponse  from  following route
+// Response  from  following route
 
 // http://localhost:3000/api/blog-stats
 <img width="609" alt="image" src="https://github.com/s2ahil/subspace-api/assets/101473078/015fccce-65d8-4b40-98c2-9e354194817c">
